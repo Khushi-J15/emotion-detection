@@ -5,9 +5,7 @@ numpy
 jupyter
 notebook
 tqdm
-opencv-contrib-python
 scikit-learn
-opencv-python
 Pillow
 streamlit
 opencv-python-headless
