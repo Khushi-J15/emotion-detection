@@ -1,0 +1,12 @@
+tensorflow>=2.12
+keras>=2.12
+pandas
+numpy
+jupyter
+notebook
+tqdm
+opencv-contrib-python
+scikit-learn
+opencv-python
+Pillow
+streamlit
