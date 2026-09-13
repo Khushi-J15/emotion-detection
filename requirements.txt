@@ -2,10 +2,8 @@ tensorflow>=2.12
 keras>=2.12
 pandas
 numpy
-jupyter
-notebook
 tqdm
 scikit-learn
 Pillow
 streamlit
-opencv-python-headless
+opencv-python-headless==4.10.0.84
